@@ -1,0 +1,5 @@
+.calculator {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(60px, 1fr));
+  grid-template-rows: repeat(7, 50px);
+}

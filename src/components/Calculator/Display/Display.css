@@ -1,0 +1,19 @@
+.display {
+  grid-column: 1 / 5;
+  grid-row: 1 / span 2;
+  /* height: 80px; */
+  color: white;
+  text-align: right;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-top: 1px solid grey;
+  font-size: 40px;
+  background-color: #383838;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 12px;
+  border-radius: 7px 7px 0 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
