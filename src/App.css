@@ -4,3 +4,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+h1 {
+  margin-bottom: 3rem;
+  white-space: nowrap;
+}
