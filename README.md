@@ -9,6 +9,12 @@ Functional calculator built using ReactJS.
 - State management
 - Passing functions as props to child components
 
+## Github Pages:
+
+### Link:
+
+https://diogo-machado.github.io/calculator-reactjs/
+
 ### Preview:
 
 ![alt text](calc-reactjs.png 'Preview Image')
